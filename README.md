@@ -13,3 +13,6 @@
     Background image and favicon are created using the https://creator.nightcafe.studio/.
   </li>
 </ul>
+
+# Preview
+![timer_preview](https://github.com/abrek-er0/SedentaryTimer/blob/9cd713ecc3ed575bf9a2bbd72ee1247a7f1a3b89/timer_preview.png)
