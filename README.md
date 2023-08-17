@@ -1,7 +1,8 @@
 # SedentaryTimer
+[The website](https://abrek-er0.github.io/SedentaryTimer/)
 <ul>
   <li>
-    Use this timer to leave shorts breaks while using the PC. 
+    Use this timer to add short breaks while using the PC. 
   </li>
   <li>
     It is set to every 20 minutes as professionals suggest.
